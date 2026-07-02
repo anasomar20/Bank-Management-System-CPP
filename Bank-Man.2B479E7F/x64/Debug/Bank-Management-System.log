@@ -1,0 +1,62 @@
+﻿  Main.cpp
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Libraries\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Libraries\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Libraries\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Libraries\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Libraries\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Libraries\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(201,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(149,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(30,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(158,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(159,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(160,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(412,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(424,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Libraries\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsUser.h(188,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsUser.h(21,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Screens\Transaction\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsCurrency.h(23,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Screens\Login\clsLoginScreen.h(45,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(369,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsUser.h(398,1): warning C4715: 'clsUser::CheckAccessPermission': not all control paths return a value
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsBankClient.h(427,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\Models\clsUser.h(347,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank-Management-System.vcxproj -> C:\Users\SUS\Desktop\Bank-Managment-System\Bank-Management-System-CPP\x64\Debug\Bank-Management-System.exe

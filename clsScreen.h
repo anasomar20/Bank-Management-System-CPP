@@ -1,8 +1,8 @@
 #pragma once
 #include <iostream>
-#include "clsUser.h"
+#include "Models/clsUser.h"
 #include "Global.h"
-#include "clsDate.h"
+#include "Libraries\clsDate.h"
 
 using namespace std;
 

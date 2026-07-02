@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Client\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsTotalBalanceScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Client\\clsTotalBalanceScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Main\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Main\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Models\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Transaction\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Login\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Login\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Models\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Models\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Models\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\User\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\User\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\User\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\User\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\User\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\User\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Transaction\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Transaction\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Transaction\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Transaction\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Login\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Login\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Currency\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Currency\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Currency\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrenciesListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Currency\\clsCurrenciesListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrancyExchangeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Currency\\clsCurrancyExchangeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Client\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Client\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Client\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Screens\\Client\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Libraries\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Libraries\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Libraries\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Libraries\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B479E7F-729B-4041-82B8-4A0FA3F2474F}|Bank-Management-System.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsCurrenciesListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clsCurrenciesListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsUser.h",
+              "RelativeDocumentMoniker": "Models\\clsUser.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsUser.h",
+              "RelativeToolTip": "Models\\clsUser.h",
+              "ViewState": "AgIAABIBAAAAAAAAAAAAABkBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:03:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsCurrency.h",
+              "RelativeDocumentMoniker": "Models\\clsCurrency.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsCurrency.h",
+              "RelativeToolTip": "Models\\clsCurrency.h",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:04:40.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsPerson.h",
+              "RelativeDocumentMoniker": "Models\\clsPerson.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsPerson.h",
+              "RelativeToolTip": "Models\\clsPerson.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:39:57.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Main\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Main\\clsMainScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Main\\clsMainScreen.h",
+              "RelativeToolTip": "Screens\\Main\\clsMainScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:33:00.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsTotalBalanceScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsTotalBalanceScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Client\\clsTotalBalanceScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsTotalBalanceScreen.h",
+              "RelativeToolTip": "Screens\\Client\\clsTotalBalanceScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:48:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Client\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsFindClientScreen.h",
+              "RelativeToolTip": "Screens\\Client\\clsFindClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:48:47.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsBankClient.h",
+              "RelativeDocumentMoniker": "Models\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Models\\clsBankClient.h",
+              "RelativeToolTip": "Models\\clsBankClient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:02:44.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Login\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Login\\clsLoginScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Login\\clsLoginScreen.h",
+              "RelativeToolTip": "Screens\\Login\\clsLoginScreen.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:53:13.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsWithdrawScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsWithdrawScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transaction\\clsWithdrawScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsWithdrawScreen.h",
+              "RelativeToolTip": "Screens\\Transaction\\clsWithdrawScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:54:33.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "Screens\\User\\clsAddNewUserScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "Screens\\User\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:54:44.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "Screens\\User\\clsFindUserScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsFindUserScreen.h",
+              "RelativeToolTip": "Screens\\User\\clsFindUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:57:57.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "Screens\\User\\clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "Screens\\User\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:58:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsListUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsListUsersScreen.h",
+              "RelativeDocumentMoniker": "Screens\\User\\clsListUsersScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsListUsersScreen.h",
+              "RelativeToolTip": "Screens\\User\\clsListUsersScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:57:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "Screens\\User\\clsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsManageUsersScreen.h",
+              "RelativeToolTip": "Screens\\User\\clsManageUsersScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:57:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "Screens\\User\\clsUpdateUserScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\User\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "Screens\\User\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:57:19.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsTransferLogScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransferLogScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transaction\\clsTransferLogScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransferLogScreen.h",
+              "RelativeToolTip": "Screens\\Transaction\\clsTransferLogScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:54:21.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsTransactionsScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransactionsScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transaction\\clsTransactionsScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransactionsScreen.h",
+              "RelativeToolTip": "Screens\\Transaction\\clsTransactionsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:53:49.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsDepositScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsDepositScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transaction\\clsDepositScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsDepositScreen.h",
+              "RelativeToolTip": "Screens\\Transaction\\clsDepositScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:54:03.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsScreen.h",
+              "RelativeDocumentMoniker": "clsScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsScreen.h",
+              "RelativeToolTip": "clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T11:52:26.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Global.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Global.h",
+              "RelativeDocumentMoniker": "Global.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Global.h",
+              "RelativeToolTip": "Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T11:53:09.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsTransferScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransferScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Transaction\\clsTransferScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Transaction\\clsTransferScreen.h",
+              "RelativeToolTip": "Screens\\Transaction\\clsTransferScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:54:26.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsLoginRegisterScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Login\\clsLoginRegisterScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Login\\clsLoginRegisterScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Login\\clsLoginRegisterScreen.h",
+              "RelativeToolTip": "Screens\\Login\\clsLoginRegisterScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:53:04.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsUpdateCurrencyRateScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsUpdateCurrencyRateScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currency\\clsUpdateCurrencyRateScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsUpdateCurrencyRateScreen.h",
+              "RelativeToolTip": "Screens\\Currency\\clsUpdateCurrencyRateScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:52:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currency\\clsFindCurrencyScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "Screens\\Currency\\clsFindCurrencyScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:52:32.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currency\\clsCurrencyCalculatorScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "Screens\\Currency\\clsCurrencyCalculatorScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:52:23.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsCurrenciesListScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrenciesListScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currency\\clsCurrenciesListScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrenciesListScreen.h",
+              "RelativeToolTip": "Screens\\Currency\\clsCurrenciesListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:52:13.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsCurrancyExchangeScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrancyExchangeScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Currency\\clsCurrancyExchangeScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Currency\\clsCurrancyExchangeScreen.h",
+              "RelativeToolTip": "Screens\\Currency\\clsCurrancyExchangeScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:51:40.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Client\\clsUpdateClientScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "Screens\\Client\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:51:10.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Client\\clsClientListScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsClientListScreen.h",
+              "RelativeToolTip": "Screens\\Client\\clsClientListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:48:00.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Client\\clsAddNewClientScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "Screens\\Client\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:40:17.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "clsDeleteClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsDeleteClientScreen.h",
+              "RelativeDocumentMoniker": "Screens\\Client\\clsDeleteClientScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Screens\\Client\\clsDeleteClientScreen.h",
+              "RelativeToolTip": "Screens\\Client\\clsDeleteClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:48:34.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Libraries\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsInputValidate.h",
+              "RelativeToolTip": "Libraries\\clsInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:00:47.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsString.h",
+              "RelativeDocumentMoniker": "Libraries\\clsString.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsString.h",
+              "RelativeToolTip": "Libraries\\clsString.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:01:52.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsUtil.h",
+              "RelativeDocumentMoniker": "Libraries\\clsUtil.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsUtil.h",
+              "RelativeToolTip": "Libraries\\clsUtil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:02:25.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsDate.h",
+              "RelativeDocumentMoniker": "Libraries\\clsDate.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Libraries\\clsDate.h",
+              "RelativeToolTip": "Libraries\\clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T12:00:12.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-01T11:45:00.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUpdateCurrencyRateScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsUpdateCurrencyRateScreen.h",
+              "RelativeDocumentMoniker": "clsUpdateCurrencyRateScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsUpdateCurrencyRateScreen.h",
+              "RelativeToolTip": "clsUpdateCurrencyRateScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T11:52:54.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsTransferScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsTransferScreen.h",
+              "RelativeDocumentMoniker": "clsTransferScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsTransferScreen.h",
+              "RelativeToolTip": "clsTransferScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T11:53:38.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "clsCurrenciesListScreen.h",
+              "DocumentMoniker": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsCurrenciesListScreen.h",
+              "RelativeDocumentMoniker": "clsCurrenciesListScreen.h",
+              "ToolTip": "C:\\Users\\SUS\\Desktop\\Bank-Managment-System\\Bank-Management-System-CPP\\clsCurrenciesListScreen.h",
+              "RelativeToolTip": "clsCurrenciesListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-01T11:53:51.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
