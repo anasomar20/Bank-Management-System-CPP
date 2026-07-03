@@ -241,9 +241,6 @@ Backend Developer
 
 - C++
 - C#
-- ASP.NET Core
-- SQL Server
-- Entity Framework Core
 
 ---
 
